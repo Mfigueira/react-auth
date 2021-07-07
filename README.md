@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a project I made with CRA to practice React Auth.
+This is a project I made with CRA to practice Authentication in a React app.
 
 Based on lectures from Academind's React course.
 
